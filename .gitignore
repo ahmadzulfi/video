@@ -5,3 +5,9 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# Personal media files (large, not part of the project)
+videoandauido
+
+# Mirror of .agents/skills created by `npx remotion skills add`
+.claude/skills
